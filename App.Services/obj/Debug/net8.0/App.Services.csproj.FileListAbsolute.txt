@@ -13,3 +13,4 @@ C:\Users\berka\Desktop\.Net\NetCoreApiNLayerArchitecture\App.Services\obj\Debug\
 C:\Users\berka\Desktop\.Net\NetCoreApiNLayerArchitecture\App.Services\obj\Debug\net8.0\refint\App.Services.dll
 C:\Users\berka\Desktop\.Net\NetCoreApiNLayerArchitecture\App.Services\obj\Debug\net8.0\App.Services.pdb
 C:\Users\berka\Desktop\.Net\NetCoreApiNLayerArchitecture\App.Services\obj\Debug\net8.0\ref\App.Services.dll
+C:\Users\berka\Desktop\.Net\NetCoreApiNLayerArchitecture\App.Services\obj\Debug\net8.0\App.Services.sourcelink.json

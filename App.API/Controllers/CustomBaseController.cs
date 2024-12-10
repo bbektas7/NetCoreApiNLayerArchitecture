@@ -17,7 +17,7 @@ namespace App.API.Controllers
             }
             if(result.Status == System.Net.HttpStatusCode.Created)
             {
-                return Created(result.urlAsCreated, result.Data);
+                return Created(result.urlAsCreated, result);
             }
             return new ObjectResult(result) { StatusCode = (int)result.Status };
         }

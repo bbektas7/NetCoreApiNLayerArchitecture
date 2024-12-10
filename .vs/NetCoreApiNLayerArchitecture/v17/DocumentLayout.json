@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\berka\\Desktop\\.Net\\NetCoreApiNLayerArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8717221C-355D-4A8B-9F8E-6E4AA355CF7B}|App.API\\App.API.csproj|c:\\users\\berka\\desktop\\.net\\netcoreapinlayerarchitecture\\app.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8717221C-355D-4A8B-9F8E-6E4AA355CF7B}|App.API\\App.API.csproj|solutionrelative:app.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C68F3EC1-3FFF-4E49-BEF9-266AF1AEC6BA}|App.Services\\App.Services.csproj|c:\\users\\berka\\desktop\\.net\\netcoreapinlayerarchitecture\\app.services\\products\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C68F3EC1-3FFF-4E49-BEF9-266AF1AEC6BA}|App.Services\\App.Services.csproj|solutionrelative:app.services\\products\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C68F3EC1-3FFF-4E49-BEF9-266AF1AEC6BA}|App.Services\\App.Services.csproj|c:\\users\\berka\\desktop\\.net\\netcoreapinlayerarchitecture\\app.services\\products\\createproductrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68F3EC1-3FFF-4E49-BEF9-266AF1AEC6BA}|App.Services\\App.Services.csproj|solutionrelative:app.services\\products\\createproductrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C68F3EC1-3FFF-4E49-BEF9-266AF1AEC6BA}|App.Services\\App.Services.csproj|c:\\users\\berka\\desktop\\.net\\netcoreapinlayerarchitecture\\app.services\\products\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C68F3EC1-3FFF-4E49-BEF9-266AF1AEC6BA}|App.Services\\App.Services.csproj|solutionrelative:app.services\\products\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C68F3EC1-3FFF-4E49-BEF9-266AF1AEC6BA}|App.Services\\App.Services.csproj|c:\\users\\berka\\desktop\\.net\\netcoreapinlayerarchitecture\\app.services\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C68F3EC1-3FFF-4E49-BEF9-266AF1AEC6BA}|App.Services\\App.Services.csproj|solutionrelative:app.services\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8717221C-355D-4A8B-9F8E-6E4AA355CF7B}|App.API\\App.API.csproj|c:\\users\\berka\\desktop\\.net\\netcoreapinlayerarchitecture\\app.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8717221C-355D-4A8B-9F8E-6E4AA355CF7B}|App.API\\App.API.csproj|solutionrelative:app.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8717221C-355D-4A8B-9F8E-6E4AA355CF7B}|App.API\\App.API.csproj|c:\\users\\berka\\desktop\\.net\\netcoreapinlayerarchitecture\\app.api\\controllers\\custombasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +21,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{C68F3EC1-3FFF-4E49-BEF9-266AF1AEC6BA}|App.Services\\App.Services.csproj|c:\\users\\berka\\desktop\\.net\\netcoreapinlayerarchitecture\\app.services\\products\\updateproductstockrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C68F3EC1-3FFF-4E49-BEF9-266AF1AEC6BA}|App.Services\\App.Services.csproj|solutionrelative:app.services\\products\\updateproductstockrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68F3EC1-3FFF-4E49-BEF9-266AF1AEC6BA}|App.Services\\App.Services.csproj|c:\\users\\berka\\desktop\\.net\\netcoreapinlayerarchitecture\\app.services\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68F3EC1-3FFF-4E49-BEF9-266AF1AEC6BA}|App.Services\\App.Services.csproj|solutionrelative:app.services\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8717221C-355D-4A8B-9F8E-6E4AA355CF7B}|App.API\\App.API.csproj|c:\\users\\berka\\desktop\\.net\\netcoreapinlayerarchitecture\\app.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8717221C-355D-4A8B-9F8E-6E4AA355CF7B}|App.API\\App.API.csproj|solutionrelative:app.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68F3EC1-3FFF-4E49-BEF9-266AF1AEC6BA}|App.Services\\App.Services.csproj|c:\\users\\berka\\desktop\\.net\\netcoreapinlayerarchitecture\\app.services\\products\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68F3EC1-3FFF-4E49-BEF9-266AF1AEC6BA}|App.Services\\App.Services.csproj|solutionrelative:app.services\\products\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68F3EC1-3FFF-4E49-BEF9-266AF1AEC6BA}|App.Services\\App.Services.csproj|c:\\users\\berka\\desktop\\.net\\netcoreapinlayerarchitecture\\app.services\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68F3EC1-3FFF-4E49-BEF9-266AF1AEC6BA}|App.Services\\App.Services.csproj|solutionrelative:app.services\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8374837-9643-4FDB-A732-F0D278DE92BD}|Repositories\\App.Repositories.csproj|c:\\users\\berka\\desktop\\.net\\netcoreapinlayerarchitecture\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +62,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateProductRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\Desktop\\.Net\\NetCoreApiNLayerArchitecture\\App.Services\\Products\\CreateProductRequestValidator.cs",
+              "RelativeDocumentMoniker": "App.Services\\Products\\CreateProductRequestValidator.cs",
+              "ToolTip": "C:\\Users\\berka\\Desktop\\.Net\\NetCoreApiNLayerArchitecture\\App.Services\\Products\\CreateProductRequestValidator.cs",
+              "RelativeToolTip": "App.Services\\Products\\CreateProductRequestValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:04:22.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\Desktop\\.Net\\NetCoreApiNLayerArchitecture\\App.Services\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "App.Services\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\berka\\Desktop\\.Net\\NetCoreApiNLayerArchitecture\\App.Services\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "App.Services\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:02:07.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\Desktop\\.Net\\NetCoreApiNLayerArchitecture\\App.API\\Program.cs",
+              "RelativeDocumentMoniker": "App.API\\Program.cs",
+              "ToolTip": "C:\\Users\\berka\\Desktop\\.Net\\NetCoreApiNLayerArchitecture\\App.API\\Program.cs",
+              "RelativeToolTip": "App.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:59:35.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UpdateProductStockRequest.cs",
               "DocumentMoniker": "C:\\Users\\berka\\Desktop\\.Net\\NetCoreApiNLayerArchitecture\\App.Services\\Products\\UpdateProductStockRequest.cs",
               "RelativeDocumentMoniker": "App.Services\\Products\\UpdateProductStockRequest.cs",
@@ -63,20 +114,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "CustomBaseController.cs",
               "DocumentMoniker": "C:\\Users\\berka\\Desktop\\.Net\\NetCoreApiNLayerArchitecture\\App.API\\Controllers\\CustomBaseController.cs",
               "RelativeDocumentMoniker": "App.API\\Controllers\\CustomBaseController.cs",
               "ToolTip": "C:\\Users\\berka\\Desktop\\.Net\\NetCoreApiNLayerArchitecture\\App.API\\Controllers\\CustomBaseController.cs",
               "RelativeToolTip": "App.API\\Controllers\\CustomBaseController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T15:27:47.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\Desktop\\.Net\\NetCoreApiNLayerArchitecture\\App.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "App.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\berka\\Desktop\\.Net\\NetCoreApiNLayerArchitecture\\App.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "App.API\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:09:20.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\Desktop\\.Net\\NetCoreApiNLayerArchitecture\\App.Services\\Products\\ProductService.cs",
+              "RelativeDocumentMoniker": "App.Services\\Products\\ProductService.cs",
+              "ToolTip": "C:\\Users\\berka\\Desktop\\.Net\\NetCoreApiNLayerArchitecture\\App.Services\\Products\\ProductService.cs",
+              "RelativeToolTip": "App.Services\\Products\\ProductService.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwDoAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:04:06.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ServiceResult.cs",
               "DocumentMoniker": "C:\\Users\\berka\\Desktop\\.Net\\NetCoreApiNLayerArchitecture\\App.Services\\ServiceResult.cs",
               "RelativeDocumentMoniker": "App.Services\\ServiceResult.cs",
@@ -89,33 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\berka\\Desktop\\.Net\\NetCoreApiNLayerArchitecture\\App.API\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "App.API\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\berka\\Desktop\\.Net\\NetCoreApiNLayerArchitecture\\App.API\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "App.API\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T15:09:20.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\berka\\Desktop\\.Net\\NetCoreApiNLayerArchitecture\\App.Services\\Products\\ProductService.cs",
-              "RelativeDocumentMoniker": "App.Services\\Products\\ProductService.cs",
-              "ToolTip": "C:\\Users\\berka\\Desktop\\.Net\\NetCoreApiNLayerArchitecture\\App.Services\\Products\\ProductService.cs",
-              "RelativeToolTip": "App.Services\\Products\\ProductService.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAADwv1QAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T15:04:06.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\berka\\Desktop\\.Net\\NetCoreApiNLayerArchitecture\\App.Services\\Products\\IProductService.cs",
               "RelativeDocumentMoniker": "App.Services\\Products\\IProductService.cs",
@@ -128,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\berka\\Desktop\\.Net\\NetCoreApiNLayerArchitecture\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\GenericRepository.cs",
