@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cojd33D5km4=",
+  "dgSpecHash": "RlDg3nOHrVw=",
   "success": true,
   "projectFilePath": "C:\\Users\\berka\\Desktop\\.Net\\NetCoreApiNLayerArchitecture\\App.API\\App.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\berka\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\berka\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\berka\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
     "C:\\Users\\berka\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",

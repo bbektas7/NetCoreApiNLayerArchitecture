@@ -150,3 +150,4 @@ C:\Users\berka\Desktop\.Net\NetCoreApiNLayerArchitecture\App.API\bin\Debug\net8.
 C:\Users\berka\Desktop\.Net\NetCoreApiNLayerArchitecture\App.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Users\berka\Desktop\.Net\NetCoreApiNLayerArchitecture\App.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\berka\Desktop\.Net\NetCoreApiNLayerArchitecture\App.API\obj\Debug\net8.0\App.API.sourcelink.json
+C:\Users\berka\Desktop\.Net\NetCoreApiNLayerArchitecture\App.API\bin\Debug\net8.0\AutoMapper.dll

@@ -12,3 +12,4 @@ C:\Users\berka\Desktop\.Net\NetCoreApiNLayerArchitecture\Repositories\obj\Debug\
 C:\Users\berka\Desktop\.Net\NetCoreApiNLayerArchitecture\Repositories\obj\Debug\net8.0\App.Repositories.pdb
 C:\Users\berka\Desktop\.Net\NetCoreApiNLayerArchitecture\Repositories\obj\Debug\net8.0\App.Repositories.genruntimeconfig.cache
 C:\Users\berka\Desktop\.Net\NetCoreApiNLayerArchitecture\Repositories\obj\Debug\net8.0\ref\App.Repositories.dll
+C:\Users\berka\Desktop\.Net\NetCoreApiNLayerArchitecture\Repositories\obj\Debug\net8.0\App.Repositories.sourcelink.json
